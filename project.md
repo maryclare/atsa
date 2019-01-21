@@ -5,12 +5,12 @@
   Project
 -------
   
-  # Overview
+# Overview
   
   
   Over Spring Break, I will select three data sets to be used for the final project according to the results of an in class survey.
   
-  # Deadlines
+# Deadlines
   
   - Submit a data set;
   - Choose a data set;
@@ -18,7 +18,7 @@
   - Submit second analysis;
   - Submit final draft.
   
-  # Rubric for Final Paper
+# Rubric for Final Paper
   
   The final project will be:
   - 5 pages long;
