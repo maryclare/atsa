@@ -5,7 +5,9 @@ layout: atsa
 Course Page
 -------
 
-Welcome! The syllabus, notes, assignments, and course project instructions will be posted here.
+Welcome! 
 
 # News
-* 1/21/19: The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been posted online.
+* 1/21/19: 
+  - The first homework assignment will be due Thursday, January 31 at 12pm.
+  - The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been posted online.
