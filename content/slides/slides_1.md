@@ -1,19 +1,18 @@
 Getting Started
 ========================================================
-author: Maryclare Griffin 
 date: 1/22/19
 
 Getting the S&S Data
 ========================================================
 
-All of the datasets used in S&S are in the `astsa` package.
+All of the datasets used in S&S are in the `astsa` package
 
 
 ```r
 install.packages("astsa")
 ```
 
-We are going to take a quick look at the `chicken` data. 
+We are going to take a quick look at the `chicken` data
 
 ```r
 library(astsa)
@@ -25,7 +24,7 @@ Chicken Data
 ========================================================
 
 $\boldsymbol x$:
-monthly price/pound of chicken August 2001-July 2016.
+monthly price/pound of chicken August 2001-July 2016
 
 <font size=0.9> 
 
@@ -81,7 +80,7 @@ plot(chicken)
 
 <img src="slides_1-figure/unnamed-chunk-4-1.png" title="plot of chunk unnamed-chunk-4" alt="plot of chunk unnamed-chunk-4" style="display: block; margin: auto;" />
 
-Storing a time series as a `ts` object makes plotting easier.
+Storing a time series as a `ts` object makes plotting easier
 
 Time Series Objects in R
 ========================================================
@@ -104,9 +103,9 @@ chicken.lag <- lag(chicken, 1)
 A Regression Example
 ========================================================
 
-We can use `ts` objects within `R`'s linear regression function `lm` easily.
+The `ts` objects play well with `lm`
 
-Let's try regressing the chicken prices
+<font size=5> 
 
 ```r
 fit <- lm(chicken~time(chicken))
@@ -133,3 +132,46 @@ Residual standard error: 4.696 on 178 degrees of freedom
 Multiple R-squared:  0.9173,	Adjusted R-squared:  0.9168 
 F-statistic:  1974 on 1 and 178 DF,  p-value: < 2.2e-16
 ```
+</font>
+
+Linear Model Fit
+========================================================
+
+
+
+
+```r
+plot(chicken)
+abline(fit, col = "blue", lwd = 2, lty = 2)
+```
+
+<img src="slides_1-figure/unnamed-chunk-8-1.png" title="plot of chunk unnamed-chunk-8" alt="plot of chunk unnamed-chunk-8" style="display: block; margin: auto;" />
+
+Residuals
+========================================================
+
+
+Is there still dependence across time?
+<font size=5>
+
+```r
+plot(chicken - fit$fitted.values, ylab = "Residuals")
+```
+
+<img src="slides_1-figure/unnamed-chunk-9-1.png" title="plot of chunk unnamed-chunk-9" alt="plot of chunk unnamed-chunk-9" style="display: block; margin: auto;" />
+</font>
+
+
+Some Useful References
+========================================================
+
+You can access `R`'s internal documentation easily
+
+```r
+help(ts)
+```
+Unfortunately, it's not always very useful
+
+One of my favorite resources is **Quick-R**
+* [Linear Regression](https://www.statmethods.net/stats/regression.html)
+* [Time Series](https://www.statmethods.net/advstats/timeseries.html) (More than we need right now...)
