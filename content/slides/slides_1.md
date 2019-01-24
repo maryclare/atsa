@@ -27,6 +27,7 @@ Chicken Data
 $\boldsymbol x$:
 monthly price/pound of chicken August 2001-July 2016.
 
+<font size=0.9> 
 
 ```r
 chicken
@@ -68,7 +69,7 @@ chicken
 2015 113.36 113.06
 2016              
 ```
-
+</font> 
 
 Time Series Objects in R
 ========================================================
