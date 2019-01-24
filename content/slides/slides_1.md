@@ -137,8 +137,7 @@ F-statistic:  1974 on 1 and 178 DF,  p-value: < 2.2e-16
 Linear Model Fit
 ========================================================
 
-
-
+ 
 
 ```r
 plot(chicken)

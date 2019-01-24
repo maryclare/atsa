@@ -7,6 +7,7 @@ News
 * Wednesday, 1/23/19
     - Posted some [slides for Thursday's lecture](https://maryclare.github.io/atsa/content/slides/slides_1.html).
     - Added some [homework guidelines](https://maryclare.github.io/atsa/homework.html).
+    - [Homework 1](https://maryclare.github.io/atsa/content/homework/hw_1.pdf) has been posted.
 * Tuesday, 1/22/19
     - [First set of notes](https://maryclare.github.io/atsa/content/notes/notes_1.pdf) posted. Note: They have been updated since class.
 * Monday, 1/21/19
