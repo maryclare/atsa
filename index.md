@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+
+* Thursday, 1/24/19
+    - Posted [new notes introducing some basic time series concepts](https://maryclare.github.io/atsa/content/notes/notes_2.pdf).
 * Wednesday, 1/23/19
     - Posted some [slides for Thursday's lecture](https://maryclare.github.io/atsa/content/slides/slides_1.html).
     - Added some [homework guidelines](https://maryclare.github.io/atsa/homework.html).
