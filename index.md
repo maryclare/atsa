@@ -6,7 +6,7 @@ News
 -------
 * Friday, 1/25/19
     - Starting Tuesday, 1/29/19, lectures and labs be in Ives 305. Please allow a few extra minutes to find the room if possible, it's a little tricky. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been updated accordingly.
-    - [Lab materials](https://maryclare.github.io/atsa/content/labs/lab1/) from Friday 1/25/19 are now online.
+    - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab1) from Friday 1/25/19 are now online.
 * Thursday, 1/24/19
     - Updated [regression notes](https://maryclare.github.io/atsa/content/notes/notes_1.pdf) for clarity.
     - Posted [new notes introducing some basic time series concepts](https://maryclare.github.io/atsa/content/notes/notes_2.pdf).
