@@ -6,7 +6,7 @@ News
 -------
 
 * Thursday, 1/24/19
-    - Updated [regression notes](https://maryclare.github.io/atsa/content/notes/notes_1.pdf) for clarity, specifically regarding $F$-tests.
+    - Updated [regression notes](https://maryclare.github.io/atsa/content/notes/notes_1.pdf) for clarity.
     - Posted [new notes introducing some basic time series concepts](https://maryclare.github.io/atsa/content/notes/notes_2.pdf).
     - [More slides](https://maryclare.github.io/atsa/content/slides/slides_2.html) for future lectures have been posted.
 * Wednesday, 1/23/19
