@@ -1,0 +1,43 @@
+---
+title: "R Markdown Demo"
+author: "Megan Gelsinger"
+date: "January 25, 2019"
+output: html_document
+---
+
+# Welcome to R Markdown #
+
+Different levels of headers can be achieved by using multiple # symbols.  One # is used for a first level header, Two # are used for a second level header and so on.  In markdown, one can also create *italicized* and **bold** text by surrounding the text in one or two asterisks, respectively.  Asterisks can also be used to dillineate lists.  Simply leave on blank line and then use an asterisk to mark the beginning of a list item:
+
+* Item 1
+* Item 2
+* Item 3 
+
+Now, let's add some code to our report!
+
+```{r}
+vir_data <- iris[iris$Species == "virginica", ]
+dim(vir_data)
+plot(vir_data$Sepal.Length, vir_data$Petal.Length)
+```
+
+We can also modify the preamble of the chunk to supress either the code or the output. Setting "eval = FALSE" suppresses the output.
+
+```{r, eval = FALSE}
+vir_data <- iris[iris$Species == "virginica", ]
+dim(vir_data)
+plot(vir_data$Sepal.Length, vir_data$Petal.Length)
+```
+
+Setting "echo = FALSE" suppresses the code.
+
+```{r, echo = FALSE}
+vir_data <- iris[iris$Species == "virginica", ]
+dim(vir_data)
+plot(vir_data$Sepal.Length, vir_data$Petal.Length)
+```
+
+# Final Comments #
+
+* When submitting homework, we expect you to provide more than just your code/output! You are required to also provide text explaining your code/output.
+* Feel free to look into additional (preamble) code chunk specifications.  One particular one you might be interested in is the ability to change the size of the plot produced in particular chunk.  We encourage you to use your space wisely on your homework, so look this up if you find your figures are unreasonably big.  
