@@ -7,6 +7,7 @@ News
 * Thursday, 1/31/19
     - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab2) for Friday 2/1/19 are now online.
     - Posted [new notes introducing AR models](https://maryclare.github.io/atsa/content/notes/notes_3.pdf).
+    - Posted [some solutions for Homework 1](https://maryclare.github.io/atsa/content/notes/slides_3.html).
     - [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf) has been posted.
 * Friday, 1/25/19
     - Starting Tuesday, 1/29/19, lectures and labs be in Ives 305. Please allow a few extra minutes to find the room if possible, it's a little tricky. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been updated accordingly.
