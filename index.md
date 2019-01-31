@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Thursday, 1/31/19
+    - [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf) has been posted.
 * Friday, 1/25/19
     - Starting Tuesday, 1/29/19, lectures and labs be in Ives 305. Please allow a few extra minutes to find the room if possible, it's a little tricky. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been updated accordingly.
     - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab1) from Friday 1/25/19 are now online.
