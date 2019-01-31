@@ -5,6 +5,7 @@ layout: atsa
 News
 -------
 * Thursday, 1/31/19
+    - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab2) for Friday 2/1/19 are now online.
     - Posted [new notes introducing AR models](https://maryclare.github.io/atsa/content/notes/notes_3.pdf).
     - [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf) has been posted.
 * Friday, 1/25/19
