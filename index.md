@@ -5,7 +5,7 @@ layout: atsa
 News
 -------
 * Monday, 2/4/19
-    - I have added extra office hours on Mondays, 2:00pm-4:00pm. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been updated accordingly.
+    - I have added extra office hours on Mondays, 2:00pm-4:00pm, and Megan has changed her office hours to Wednesdays, 9:00am-11:00am. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been updated accordingly.
 * Saturday, 2/2/19
     - I have added some extra information explicitly tying together the concepts we've talked about in class as a hint for [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf). 
 * Thursday, 1/31/19
