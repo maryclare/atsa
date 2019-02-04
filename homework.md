@@ -16,3 +16,4 @@ Homework
 ## Assignments
 * [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf)
 * [Homework 1](https://maryclare.github.io/atsa/content/homework/hw_1.pdf)
+    - [Homework 1 Solutions](https://maryclare.github.io/atsa/content/homework/hw_1_sol.pdf)
