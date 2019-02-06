@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Wednesday, 2/6/19
+    - I have more information to [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf), specifically some example `R` code.
+    - All of the notes have been updated recently, make sure to refresh your local copies. I have added some extra notation definitions to the [introductory notes](https://maryclare.github.io/atsa/content/notes/notes_1.pdf), and I have adjusted the definition of stationarity in the [basic time series concepts notes](https://maryclare.github.io/atsa/content/notes/notes_2.pdf) to make the finite variance assumption explicit.
 * Monday, 2/4/19
     - I have added extra office hours on Mondays, 2:00pm-4:00pm, and Megan has changed her office hours to Wednesdays, 9:00am-11:00am. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) has been updated accordingly.
     - I have posted more detailed [solutions for Homework 1](https://maryclare.github.io/atsa/content/homework/hw_1_sol.pdf).
