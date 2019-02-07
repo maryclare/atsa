@@ -14,6 +14,7 @@ Homework
 * Figures and tables must be clearly and fully annotated.
 
 ## Assignments
+* [Homework 3](https://maryclare.github.io/atsa/content/homework/hw_3.pdf)
 * [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf)
 * [Homework 1](https://maryclare.github.io/atsa/content/homework/hw_1.pdf)
     - [Homework 1 Solutions](https://maryclare.github.io/atsa/content/homework/hw_1_sol.pdf)

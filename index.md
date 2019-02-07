@@ -5,6 +5,7 @@ layout: atsa
 News
 -------
 * Thursday, 2/7/19
+    - I have posted [Homework 3](https://maryclare.github.io/atsa/content/homework/hw_3.pdf).
     - [Notes on AR, MA and ARMA models](https://maryclare.github.io/atsa/content/notes/notes_3.pdf) have been updated with some typo fixes and additional material.
 * Wednesday, 2/6/19
     - Updated the [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) to reflect a room change for Megan's Wednesday office hours. They are in **Comstock B104.**
