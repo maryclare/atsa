@@ -5,8 +5,9 @@ layout: atsa
 News
 -------
 * Thursday, 2/7/19
+    - I have added some extra links and comments about using `R` to the main [homework](https://maryclare.github.io/atsa/homework.html) page.
     - I have posted [Homework 3](https://maryclare.github.io/atsa/content/homework/hw_3.pdf).
-    - [Notes on AR, MA and ARMA models](https://maryclare.github.io/atsa/content/notes/notes_3.pdf) have been updated with some typo fixes and additional material.
+    - [Introduction to AR, MA and ARMA model notes](https://maryclare.github.io/atsa/content/notes/notes_3.pdf) are now complete and have been updated with some typo fixes and additional material.
 * Wednesday, 2/6/19
     - Updated the [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) to reflect a room change for Megan's Wednesday office hours. They are in **Comstock B104.**
     - I have more information to [Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2.pdf), specifically some example `R` code.
