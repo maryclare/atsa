@@ -1,0 +1,47 @@
+---
+title: "R Markdown Demo"
+author: "Megan Gelsinger"
+date: "February 8, 2019"
+output:
+  html_document: default
+---
+
+# How do we write mathematical equations in R Markdown?
+## Basic Formatting
+
+Today, we are going to learn how to nicely format mathematical equations in R Markdown.  This will be convenient for your next homework where you will be expected to do some computations by hand (and show your work) and do some coding.  R Markdown allows you to do both in the same document!
+
+In order to write mathematical symbols and equations, we must enter "math mode".  This is done by surrounding your text with "\$".  We can write mathematical text in-line: $y = 3x + 4$.  It can also be put on a separate line as follows:
+\[y = 3x + 4.\]
+Note, I didn't have to put the brackets on a separate line to have the same format.  I also didn't need to use the "$" since the brackets automatically put the user in math mode.  \[y = 3x+4.\]  I just tend to put it on a separate line for my own sake - if I need to go back and make an edit it is easier to find if it is on its own line.  
+
+The last formatting I'd like to show you is if you have multiple lines of equations that you would like to all line up.  This is useful when you are performing a calculation in a series of steps (hint: HW).
+\begin{align*} % the asterisk indicates we do not want equation numbers at the end of the lines
+y &= 3x + 4\\ % used the ampersand symbol to denote where you want to align 
+&= 3(5) + 4\\
+&= 15 + 4\\
+&= 19.
+\end{align*}
+
+## Symbols and Sub/Superscripts
+Okay, now that we know how to format, let's learn how to include symbols and sub/supscripts.  Symbols are located in math mode.  All you need to do is type a "\\" and spell the name of the symbol!  For example:
+
+- $\theta$
+- $\phi$
+- $\pi$
+
+We may also want to include sub/supserscripts.  To do this, we use "_" and "^", again, in math mode.  
+
+- $\theta_2$
+- $\phi^5$
+- $\sigma^2_{w}$
+- $\pi_{t-1}$
+- $\psi^{t+1}$
+
+If the sub/superscript is more than one character long, we need to wrap it in curly braces "\{\}."
+
+Putting this all together, we can write an **AR**(*p*) model with *p* = 2 as
+\begin{align*}
+x_t &= \phi_1 x_{t-1} + \phi_2 x_{t-2} + w_t\\
+&=(0.04)x_{t-1} + (0.92)x_{t-2} + w_t.
+\end{align*}

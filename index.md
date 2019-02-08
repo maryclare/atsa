@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Friday, 2/8/19
+    - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab3) from Friday 2/8/19 are now online.
 * Thursday, 2/7/19
     - I have added some extra links and comments about using `R` to the main [homework](https://maryclare.github.io/atsa/homework.html) page.
     - I have posted [Homework 3](https://maryclare.github.io/atsa/content/homework/hw_3.pdf).
