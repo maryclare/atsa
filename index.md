@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Monday, 2/11/19
+    - I have posted [solutions for Homework 2](https://maryclare.github.io/atsa/content/homework/hw_2_sol.pdf).
+    - I have added some clarifications to [Homework 3](https://maryclare.github.io/atsa/content/homework/hw_3.pdf).
 * Friday, 2/8/19
     - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab3) from Friday 2/8/19 are now online.
 * Thursday, 2/7/19
