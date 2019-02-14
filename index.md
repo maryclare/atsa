@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Thursday, 2/14/19
+    - I have posted [Homework 4](https://maryclare.github.io/atsa/content/homework/hw_4.pdf).
 * Tuesday, 2/12/19
     - I have posted new [notes on forecasting](https://maryclare.github.io/atsa/content/notes/notes_4.pdf).
     - I have added some additional references and comments on the [Notes](https://maryclare.github.io/atsa/notes.html) page. You'll only be assessed based on the lecture notes, slides, lab material, and homework, but you might find referencing several textbooks (or finding the one that makes the most sense to you) helpful.
