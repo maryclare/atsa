@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Friday, 2/15/19
+    - I have posted the [code from class yesterday](https://maryclare.github.io/atsa/content/code/code_1.R).
+    - Typewritten notes will be online later today.
 * Thursday, 2/14/19
     - I have posted [Homework 4](https://maryclare.github.io/atsa/content/homework/hw_4.pdf).
 * Tuesday, 2/12/19

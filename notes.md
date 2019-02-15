@@ -18,6 +18,9 @@ Lecture Notes:
 * Basic time series concepts: [`notes_2.pdf`](https://maryclare.github.io/atsa/content/notes/notes_2.pdf)
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
+Lecture Code:
+* Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
+
 Lecture Slides:
 * Homework 1 Review: [`slides_3.html`](https://maryclare.github.io/atsa/content/slides/slides_3.html)
 * Sample Autocorrelation Function: [`slides_2.html`](https://maryclare.github.io/atsa/content/slides/slides_2.html)
