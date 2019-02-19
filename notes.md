@@ -13,6 +13,7 @@ Lab Materials:
 * Materials for first lab on Friday 1/25/19: [`lab1`](https://github.com/maryclare/atsa/tree/master/content/labs/lab1)
 
 Lecture Notes:
+* Estimation and Model Selection: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_4.pdf)
 * Autoregressive Moving Average (ARMA) Models: [`notes_3.pdf`](https://maryclare.github.io/atsa/content/notes/notes_3.pdf)
 * Basic time series concepts: [`notes_2.pdf`](https://maryclare.github.io/atsa/content/notes/notes_2.pdf)
