@@ -20,6 +20,7 @@ Lecture Notes:
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
 Lecture Code:
+* Method-of-Moments for ARMA: [`code_2.R`](https://maryclare.github.io/atsa/content/code/code_2.R)
 * Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
 
 Lecture Slides:

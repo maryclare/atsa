@@ -6,6 +6,8 @@ News
 -------
 * Tuesday, 2/19/19
     - I have posted [notes on estimation and model selection for ARMA models](https://maryclare.github.io/atsa/content/notes/notes_5.pdf).
+    - I have posted the [code from class today](https://maryclare.github.io/atsa/content/code/code_2.R).
+    - I have posted solutions to [Homework 3](https://maryclare.github.io/atsa/content/homework/hw_3_sol.pdf)
 * Friday, 2/15/19
     - I have posted the [code from class yesterday](https://maryclare.github.io/atsa/content/code/code_1.R).
 * Thursday, 2/14/19
