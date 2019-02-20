@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lab Materials:
+* Materials for fourth lab on Friday 2/15/19: [`lab4`](https://github.com/maryclare/atsa/tree/master/content/labs/lab4)
 * Materials for third lab on Friday 2/8/19: [`lab3`](https://github.com/maryclare/atsa/tree/master/content/labs/lab3)
 * Materials for second lab on Friday 2/1/19: [`lab2`](https://github.com/maryclare/atsa/tree/master/content/labs/lab2)
 * Materials for first lab on Friday 1/25/19: [`lab1`](https://github.com/maryclare/atsa/tree/master/content/labs/lab1)

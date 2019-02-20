@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Wednesday, 2/20/19
+    - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab4) from Friday 2/15/19 are now online.
 * Tuesday, 2/19/19
     - I have posted [notes on estimation and model selection for ARMA models](https://maryclare.github.io/atsa/content/notes/notes_5.pdf).
     - I have posted the [code from class today](https://maryclare.github.io/atsa/content/code/code_2.R).
