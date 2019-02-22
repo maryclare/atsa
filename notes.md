@@ -8,7 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
-* Estimation and Model Selection: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
+* Estimation and Model Selection: [`notes_5.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_4.pdf)
 * Autoregressive Moving Average (ARMA) Models: [`notes_3.pdf`](https://maryclare.github.io/atsa/content/notes/notes_3.pdf)
 * Basic time series concepts: [`notes_2.pdf`](https://maryclare.github.io/atsa/content/notes/notes_2.pdf)
