@@ -19,7 +19,7 @@ Lecture Code:
 * Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
 
 Supplementary Lecture Material:
-* An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [`model_select.pdf'](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf)
+* An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [`model_select.pdf`](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf)
 
 Lab Materials:
 * Materials for fourth lab on Friday 2/15/19: [`lab4`](https://github.com/maryclare/atsa/tree/master/content/labs/lab4)
