@@ -7,12 +7,6 @@ Notes and Slides
 
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
-Lab Materials:
-* Materials for fourth lab on Friday 2/15/19: [`lab4`](https://github.com/maryclare/atsa/tree/master/content/labs/lab4)
-* Materials for third lab on Friday 2/8/19: [`lab3`](https://github.com/maryclare/atsa/tree/master/content/labs/lab3)
-* Materials for second lab on Friday 2/1/19: [`lab2`](https://github.com/maryclare/atsa/tree/master/content/labs/lab2)
-* Materials for first lab on Friday 1/25/19: [`lab1`](https://github.com/maryclare/atsa/tree/master/content/labs/lab1)
-
 Lecture Notes:
 * Estimation and Model Selection: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_4.pdf)
@@ -21,8 +15,17 @@ Lecture Notes:
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
 Lecture Code:
-* Method-of-Moments for ARMA: [`code_2.R`](https://maryclare.github.io/atsa/content/code/code_2.R)
+* Estimation for ARMA: [`code_2.R`](https://maryclare.github.io/atsa/content/code/code_2.R)
 * Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
+
+Supplementary Lecture Material:
+* An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [model_select.jpg](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.jpg)
+
+Lab Materials:
+* Materials for fourth lab on Friday 2/15/19: [`lab4`](https://github.com/maryclare/atsa/tree/master/content/labs/lab4)
+* Materials for third lab on Friday 2/8/19: [`lab3`](https://github.com/maryclare/atsa/tree/master/content/labs/lab3)
+* Materials for second lab on Friday 2/1/19: [`lab2`](https://github.com/maryclare/atsa/tree/master/content/labs/lab2)
+* Materials for first lab on Friday 1/25/19: [`lab1`](https://github.com/maryclare/atsa/tree/master/content/labs/lab1)
 
 Lecture Slides:
 * Homework 1 Review: [`slides_3.html`](https://maryclare.github.io/atsa/content/slides/slides_3.html)

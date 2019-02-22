@@ -118,16 +118,18 @@ theta.hat <- psi.hat[1:q] - E%*%phi.hat
 
 plot(phi.hat, type = "b")
 plot(theta.hat, type = "b")
-# These look pretty crazy...
+# These look pretty crazy...they are not very good estimators...
+# We already knw that would be the case though
 
-# We know that these aren't going to be very good estimators - let's move on
-# to maximum likelihood methods. These are implemented by the arima function
+# Let's move on to maximum likelihood methods. These are implemented by the arima function
 ?arima
 
 # The default fits the model using unconditional maximum likelihood
-uml <- arima(x, order = c(2, 0, 3), method = "ML")
+p <- 2
+q <- 3
+system.time(uml <- arima(x, order = c(p, 0, q), method = "ML"))
 # Could try the easy thing instead
-cls <- arima(x, order = c(2, 0, 3), method = "CSS")
+system.time(cls <- arima(x, order = c(p, 0, q), method = "CSS"))
 # Also has a conditional-maximum likelihood method - 
 # This throws out the first p+q observations but not the 
 # log(r) term. We haven't talked about this, so we won't try it out

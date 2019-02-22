@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Thursday, 2/21/19
+    - [Code from class](https://github.com/maryclare/atsa/tree/master/content/code/code_2.R) has been updated.
+    - I have posted [an improved version of the figure I drew in class](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.jpg) explaining model selection from the ACF/PACF.
 * Wednesday, 2/20/19
     - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab4) from Friday 2/15/19 are now online.
 * Tuesday, 2/19/19
