@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Wednesday, 2/27/19
+    - I've added some hints to [Homework 4](https://maryclare.github.io/atsa/content/homework/hw_4.pdf).
 * Thursday, 2/21/19
     - [Code from class](https://github.com/maryclare/atsa/tree/master/content/code/code_2.R) has been updated.
     - I have posted [an improved version of the figure I drew in class](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf) explaining model selection from the ACF/PACF.
