@@ -18,6 +18,9 @@ Lecture Code:
 * Estimation for ARMA: [`code_2.R`](https://maryclare.github.io/atsa/content/code/code_2.R)
 * Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
 
+Exam Solutions:
+* [Exam 1](https://maryclare.github.io/atsa/content/exams/ex_1_sol.pdf)
+
 Supplementary Lecture Material:
 * An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [`model_select.pdf`](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf)
 

@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Friday, 3/1/19
+    - I've added solutions to [Exam 1](https://maryclare.github.io/atsa/content/exams/ex_1_sol.pdf). Summary statistics and a histogram are included in the solutions.
 * Wednesday, 2/27/19
     - I've added some hints to [Homework 4](https://maryclare.github.io/atsa/content/homework/hw_4.pdf).
 * Thursday, 2/21/19
