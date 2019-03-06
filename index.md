@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Tuesday, 3/5/19
+    - Posted the [code from class today](https://maryclare.github.io/atsa/content/code/code_3.R).
+    - Updated the [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) with updated Exam 2 date.
 * Friday, 3/1/19
     - I've added solutions to [Exam 1](https://maryclare.github.io/atsa/content/exams/ex_1_sol.pdf). Summary statistics and a histogram are included in the solutions.
 * Wednesday, 2/27/19
