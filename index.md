@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Thursday, 3/7/19
+    - I have posted [Homework 5](https://maryclare.github.io/atsa/content/homework/hw_5.pdf).
+    - I have posted [solutions to Homework 4](https://maryclare.github.io/atsa/content/homework/hw_4_sol.pdf).
 * Tuesday, 3/5/19
     - Posted the [code from class today](https://maryclare.github.io/atsa/content/code/code_3.R).
     - Updated the [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf) with updated Exam 2 date.

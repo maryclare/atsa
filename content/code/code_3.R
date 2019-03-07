@@ -85,6 +85,12 @@ for (i in 2:n) {
     Z[, i] <- sin(2*pi*floor(i/2)*1:n/n)
   }
 }
+# Let's peek at how correlated columns of the design matrix are
+ZtZ <- t(Z)%*%Z 
+# The off diagonal entries give us correlations for each pair of columns
+hist(ZtZ[lower.tri(ZtZ)])
+max(abs(ZtZ[lower.tri(ZtZ)]))
+# The design matrix is pretty much orthogonal!
 linmod <- lm(x~Z-1)
 summary(linmod)
 plot(x)
@@ -117,6 +123,36 @@ omega
 lines(abs(2*fft(x)[1:(floor(n/2))]/n)^2, type = "l", col = "red")
 
 spectrum(x, log = "no")
+
+# Lets write a little function that does this
+scaled.periodogram <- function(x) {
+  n <- length(x)
+  # Get number of columns in our design matrix
+  m <- n - ifelse(n%%2 == 0, 1, 0)
+  Z <- matrix(nrow = n, ncol = m)
+  
+  # First column is always the intercept!
+  Z[, 1] <- 1
+  for (i in 2:m) {
+    if (i%%2 == 0) {
+      Z[, i] <- cos(2*pi*floor(i/2)*1:n/n)
+    } else {
+      Z[, i] <- sin(2*pi*floor(i/2)*1:n/n)
+    }
+  }
+  linmod <- lm(x~Z-1)
+  
+  # Let's record the coef magnitudes
+  coef.mags <- numeric(1 + (m-1)/2)
+  for (i in 1:length(coef.mags)) {
+    if (i == 1) {
+      coef.mags[i] <- coef(linmod)[1]^2
+    } else {
+      coef.mags[i] <- sum(coef(linmod)[1 + 2*(i - 2) + 1:2]^2)
+    }
+  }
+  return(list("coef.mags" = coef.mags, "freqs" = 0:((m - 1)/2)/n, "Z" = Z))
+}
 
 # Let's look at a new example time series data set!
 # This is some experimental data from Cowpertwaite and Metcalfe (2009)
