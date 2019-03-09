@@ -23,6 +23,7 @@
 # The data that we are going to use for this example is minute-by-minute data on household
 # electricity consumption (for one house) between December 2006 and November 2010.  This
 # gives us a total of 2075259 observations. Let's look at this data. 
+# Data from: https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption 
 
 # Now that we know how our data looks and how we should set the arguments in the import function,
 # let's go ahead and import it!   
@@ -71,7 +72,8 @@ library("readxl")
 # of lines to skip before reading in the data.  Review your data carefully so that you can read it in properly!
 
 # The data that we are going to use for this example is quaterly prices for the S&P 500 
-# index from 1988 - 2018.  This gives us a total of 124 observations. Let's look at this data. 
+# index from 1988 - 2018.  This gives us a total of 124 observations. Let's look at this data.
+# Data from: https://us.spindices.com/indices/equity/sp-500
 
 # Now that we know how our data looks and how we should set the arguments in the import function,
 # let's go ahead and import it and make it a time series!   
