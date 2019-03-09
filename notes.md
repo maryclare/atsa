@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
+* Spectral Analysis/The Spectral Domain: [`notes_6.pdf`](https://maryclare.github.io/atsa/content/notes/notes_6.pdf)
 * Estimation and Model Selection: [`notes_5.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_4.pdf)
 * Autoregressive Moving Average (ARMA) Models: [`notes_3.pdf`](https://maryclare.github.io/atsa/content/notes/notes_3.pdf)

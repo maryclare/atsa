@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Saturday, 3/9/19
+  - [First half of notes for spectral analysis/spectral domain](https://maryclare.github.io/atsa/content/notes/notes_5.pdf) posted. Second half on estimation will be posted tomorrow.
 * Friday, 3/8/19
   - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab5) from Friday 3/1/19 are now online.
   - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab6) from Friday 3/8/19 are now online.
