@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Friday, 3/8/19
+  - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab5) from Friday 3/1/19 are now online.
+  - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab5) from Friday 3/8/19 are now online.
 * Thursday, 3/7/19
     - I have posted [Homework 5](https://maryclare.github.io/atsa/content/homework/hw_5.pdf).
     - I have posted [solutions to Homework 4](https://maryclare.github.io/atsa/content/homework/hw_4_sol.pdf).

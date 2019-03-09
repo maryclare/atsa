@@ -104,6 +104,8 @@ plot(Z[, 2], type = "l")
 lines(Z[, 3])
 coef(linmod)[2:3]
 sum(coef(linmod)[2:3]^2)
+anova(lm(x~Z[, 2]+Z[, 3]))
+((0 + 0.04)/2)*(n/2)
 
 # Faster moving
 plot(Z[, 4], type = "l")
@@ -128,12 +130,11 @@ spectrum(x, log = "no")
 scaled.periodogram <- function(x) {
   n <- length(x)
   # Get number of columns in our design matrix
-  m <- n - ifelse(n%%2 == 0, 1, 0)
-  Z <- matrix(nrow = n, ncol = m)
+  Z <- matrix(nrow = n, ncol = n)
   
   # First column is always the intercept!
   Z[, 1] <- 1
-  for (i in 2:m) {
+  for (i in 2:n) {
     if (i%%2 == 0) {
       Z[, i] <- cos(2*pi*floor(i/2)*1:n/n)
     } else {
@@ -143,26 +144,16 @@ scaled.periodogram <- function(x) {
   linmod <- lm(x~Z-1)
   
   # Let's record the coef magnitudes
-  coef.mags <- numeric(1 + (m-1)/2)
+  m <- ifelse(n%%2 == 0, n/2, (n - 1)/2 + 1)
+  coef.mags <- numeric(m)
   for (i in 1:length(coef.mags)) {
     if (i == 1) {
       coef.mags[i] <- coef(linmod)[1]^2
+    } else if (i == length(coef.mags) & n%%2 == 0) {
+      coef.mags[i] <- coef(linmod)[length(coef(linmod))]^2
     } else {
       coef.mags[i] <- sum(coef(linmod)[1 + 2*(i - 2) + 1:2]^2)
     }
   }
-  return(list("coef.mags" = coef.mags, "freqs" = 0:((m - 1)/2)/n, "Z" = Z))
+  return(list("coef.mags" = coef.mags, "freqs" = 0:(m - 1)/n, "Z" = Z))
 }
-
-# Let's look at a new example time series data set!
-# This is some experimental data from Cowpertwaite and Metcalfe (2009)
-www <- "http://www.maths.adelaide.edu.au/andrew.metcalfe/Data/wave.dat"
-# It is a time series of wave height measurements in mm from a wave machine over
-# a ~40 second interval
-# We're going to play around with it because it's a good example
-# of a stationary time series
-x <- ts(data = read.table (www, header=T)[, 1])
-n <- length(x)
-
-plot(x, ylab = "Wave Height (mm)")
-spectrum(x, log = "no")
