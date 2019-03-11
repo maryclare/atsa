@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Sunday, 3/10/19
+  - [All of the notes for spectral analysis/spectral domain](https://maryclare.github.io/atsa/content/notes/notes_6.pdf) are now posted. 
 * Saturday, 3/9/19
   - [First half of notes for spectral analysis/spectral domain](https://maryclare.github.io/atsa/content/notes/notes_6.pdf) posted. Second half on estimation will be posted tomorrow.
 * Friday, 3/8/19
