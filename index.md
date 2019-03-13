@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Tuesday, 3/12/19
+  - [More spectral analysis code from class](https://maryclare.github.io/atsa/content/code/code_3.R) posted. 
 * Sunday, 3/10/19
   - [All of the notes for spectral analysis/spectral domain](https://maryclare.github.io/atsa/content/notes/notes_6.pdf) are now posted. 
 * Saturday, 3/9/19
