@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Thursday, 3/14/19
+  - Exam 2 has been moved (permanently) to in class, Tuesday, March 26. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf)  has been updated to reflect this.
 * Tuesday, 3/12/19
   - [More spectral analysis code from class](https://maryclare.github.io/atsa/content/code/code_3.R) posted. 
 * Sunday, 3/10/19

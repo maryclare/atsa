@@ -89,4 +89,3 @@ spec.ar <- spec.ar(x, main = "Parametric SD Estimate")
 mtext(gsub(") spectrum ", "", gsub("(", "", spec.ar$method, fixed = TRUE), fixed = TRUE), 3,
       line = 0.25)
 acf(x, main = "Autocorrelation Function")
-
