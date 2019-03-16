@@ -8,6 +8,7 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
+* Non-Stationarity: [`notes_7.pdf`](https://maryclare.github.io/atsa/content/notes/notes_7.pdf)
 * Spectral Analysis/The Spectral Domain: [`notes_6.pdf`](https://maryclare.github.io/atsa/content/notes/notes_6.pdf)
 * Estimation and Model Selection: [`notes_5.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
 * Forecasting: [`notes_4.pdf`](https://maryclare.github.io/atsa/content/notes/notes_4.pdf)
@@ -28,6 +29,7 @@ Supplementary Lecture Material:
 * An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [`model_select.pdf`](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf)
 
 Lab Materials:
+* Materials for fourth lab on Friday 3/5/19: [`lab7`](https://github.com/maryclare/atsa/tree/master/content/labs/lab7)
 * Materials for fourth lab on Friday 3/8/19: [`lab6`](https://github.com/maryclare/atsa/tree/master/content/labs/lab6)
 * Materials for fourth lab on Friday 3/1/19: [`lab5`](https://github.com/maryclare/atsa/tree/master/content/labs/lab5)
 * Materials for fourth lab on Friday 2/15/19: [`lab4`](https://github.com/maryclare/atsa/tree/master/content/labs/lab4)

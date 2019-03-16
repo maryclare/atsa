@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Saturday, 3/16/19
+  - [Notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf)  posted. 
+  - [Lab materials](https://github.com/maryclare/atsa/tree/master/content/labs/lab7) from Friday 3/15/19 are now online.
 * Thursday, 3/14/19
   - Exam 2 has been moved (permanently) to in class, Tuesday, March 26. The [syllabus](https://maryclare.github.io/atsa/content/syllabus.pdf)  has been updated to reflect this.
 * Tuesday, 3/12/19
