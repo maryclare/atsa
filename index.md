@@ -6,6 +6,7 @@ News
 -------
 * Tuesday, 3/19/19
   - [Notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf) updated.
+  - Caught a typo regarding equation (9) in the [spectral analysis notes](https://maryclare.github.io/atsa/content/notes/notes_6.pdf), please make sure to look at the latest version!
   - One practice question for the second exam has been posted as [Homework 6](https://maryclare.github.io/atsa/content/homework/hw_6.pdf). A few more to come soon.
 * Saturday, 3/16/19
   - [Notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf)  posted. 
