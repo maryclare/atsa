@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Thursday, 3/21/19
+  - [Notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf) updated to include ARCH/GARCH and some more information about power transformations.
 * Wednesday, 3/20/19
   - One more practice question for the second exam has been posted as [Homework 6](https://maryclare.github.io/atsa/content/homework/hw_6.pdf). I may post one last one on ARCH/GARCH after class on Thursday depending on what we get around to covering.
 * Tuesday, 3/19/19
