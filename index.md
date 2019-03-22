@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Friday, 3/22/19
+  - [Solutions to Homework 5](https://maryclare.github.io/atsa/content/homework/hw_5_sol.pdf) posted.
+  - [Some more updates to the notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf) have been made.
 * Thursday, 3/21/19
   - [Notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf) updated to include ARCH/GARCH and some more information about power transformations.
 * Wednesday, 3/20/19
