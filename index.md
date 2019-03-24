@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Sunday, 3/24/19
+  - [Project page](https://maryclare.github.io/atsa/project.html) updated with instructions for potential dataset submission.
 * Friday, 3/22/19
   - [Solutions to Homework 5](https://maryclare.github.io/atsa/content/homework/hw_5_sol.pdf) posted.
   - [Some more updates to the notes on non-stationarity and ARIMA](https://maryclare.github.io/atsa/content/notes/notes_7.pdf) have been made.
