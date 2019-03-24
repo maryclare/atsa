@@ -21,7 +21,7 @@ Summary of Tasks:
   
 ## Submitting a Potential Dataset
 
-Submissions submitted by 12:00pm noon on Sunday, March 31 will be considered. It is ok (and encouraged) to submit as a group! For full consideration, the submission should be at most one page and should include:
+Submissions submitted by 12:00pm noon on Sunday, March 31 will be considered. It is ok (and encouraged) to submit as a group! For full consideration, the submission should include the data (in whatever format you have it in, e.g. Excel or .csv) and an at most one page description which includes:
 
 - One to five sentences describing the data, specifically:
     - The names of the students in the group;
