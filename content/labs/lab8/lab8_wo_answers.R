@@ -40,6 +40,7 @@ ndiffs(x, alpha = 0.05, test = "adf", type = "level")
 
 # Let's pick models for each time series and perform some forecasting.  We will quickly see the problem with over differencing.
 # Note: could also use auto.arima() to select model with lowest AIC/BIC but use with caution.
+n.ahead <- 10
 forecast_x <- forecast(arima(x, order = c(0, 0, 1)), h = n.ahead) 
 forecast_dx <- forecast(arima(x, order = c(0, 1, 1)), h = n.ahead)
 forecast_d4x <- forecast(arima(x, order = c(0, 4, 1)), h = n.ahead)
@@ -120,7 +121,7 @@ model3 <- arima(l_fdeaths, seasonal = list(order = c(0, 1, 1), period = 12),
 
 # Which model is best?
 # AIC
-AIC(model1); AIC(model2); AIC(model3) # model1 is best
+AIC(model1); AIC(model2); AIC(model3) 
 # BIC
 AIC(model1, k = log(length(model1$nobs))); AIC(model2, k = log(length(model2$nobs))); AIC(model3, k = log(length(model3$nobs))) 
 
