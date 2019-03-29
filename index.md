@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Friday, 3/29/19
+  - [Code examples for ARIMA/SARIMA/ARCH/GARCH/ARFIMA](https://maryclare.github.io/atsa/notes.html) have been posted.
 * Sunday, 3/24/19
   - [Project page](https://maryclare.github.io/atsa/project.html) updated with instructions for potential dataset submission.
 * Friday, 3/22/19

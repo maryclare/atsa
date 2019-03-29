@@ -17,7 +17,10 @@ Lecture Notes:
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
 Lecture Code:
-* More Spectral Analysis: [`code_4.R`](https://maryclare.github.io/atsa/content/code/code_.R)
+* Fractional Differencing/ARFIMA: [`code_7.R`](https://maryclare.github.io/atsa/content/code/code_7.R)
+* ARCH/GARCH: [`code_6.R`](https://maryclare.github.io/atsa/content/code/code_6.R)
+* SARIMA: [`code_5.R`](https://maryclare.github.io/atsa/content/code/code_5.R)
+* More Spectral Analysis: [`code_4.R`](https://maryclare.github.io/atsa/content/code/code_4.R)
 * Motivating Spectral Analysis: [`code_3.R`](https://maryclare.github.io/atsa/content/code/code_3.R)
 * Estimation for ARMA: [`code_2.R`](https://maryclare.github.io/atsa/content/code/code_2.R)
 * Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
