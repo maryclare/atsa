@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Friday, 4/9/19
+  - Notes so far on [state-space models](https://maryclare.github.io/atsa/content/notes/notes_9.pdf) have been posted.
+  - [Code example for a state-space model](https://maryclare.github.io/atsa/code/code_8.R) has been posted.
 * Friday, 3/29/19
   - [Code examples for ARIMA/SARIMA/ARCH/GARCH/ARFIMA](https://maryclare.github.io/atsa/notes.html) have been posted.
 * Sunday, 3/24/19
