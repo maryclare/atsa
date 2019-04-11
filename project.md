@@ -30,8 +30,6 @@ Summary of Tasks:
 - Submit final paper on Tuesday, 5/7/19 by 11:59pm.
 
   
-  Before spring break, I will collect potential datasets. Over spring break, I will explore the submitted data and decide which ones seem well suited for the project. 
-  
   
   
 ## Submitting a Potential Dataset
@@ -62,6 +60,8 @@ Here are some links to some places to look for data, which range from data repos
 - [`babynames` Package for `R`](https://cran.r-project.org/web/packages/babynames/babynames.pdf)
 - [ASA Statistics in Sports Section's Recommended Data Resources](https://community.amstat.org/sis/sportsdataresources)
 - [`nbastatR` Package for `R`](http://asbcllc.com/nbastatR/)
+
+Before spring break, I will collect potential datasets. Over spring break, I will explore the submitted data and decide which ones seem well suited for the project. 
    
   
 ## Rubric for Final Paper
