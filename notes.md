@@ -18,7 +18,7 @@ Lecture Notes:
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
 Lecture Code:
-* State-Space Modeling: [`code_7.R`](https://maryclare.github.io/atsa/content/code/code_8.R)
+* State-Space Modeling: [`code_8.R`](https://maryclare.github.io/atsa/content/code/code_8.R)
 * Fractional Differencing/ARFIMA: [`code_7.R`](https://maryclare.github.io/atsa/content/code/code_7.R)
 * ARCH/GARCH: [`code_6.R`](https://maryclare.github.io/atsa/content/code/code_6.R)
 * SARIMA: [`code_5.R`](https://maryclare.github.io/atsa/content/code/code_5.R)
