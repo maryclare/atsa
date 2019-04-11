@@ -6,6 +6,7 @@ Homework
 -------
 
 ## Assignments
+* [Homework 7](https://maryclare.github.io/atsa/content/homework/hw_7.pdf)
 * [Homework 6](https://maryclare.github.io/atsa/content/homework/hw_6.pdf)
 * [Homework 5](https://maryclare.github.io/atsa/content/homework/hw_5.pdf)
      - [Homework 5 Solutions](https://maryclare.github.io/atsa/content/homework/hw_5_sol.pdf)
@@ -33,6 +34,5 @@ Homework
     - `CRAN` has a very comprehensive [reference card](https://cran.r-project.org/doc/contrib/Short-refcard.pdf).
     - The course page for [Introduction to R for Social Scientists](https://rebeccaferrell.github.io/CSSS508/), a course on `R` taught at the University of Washington a few years ago.
     - The book [Advanced `R`](http://adv-r.had.co.nz) by Hadley Wickham gives a very detailed look at `R`'s data structures, e.g. matrices, arrays, and data frames.
-    - DataCamp has a popular and free [Introduction to `R`](https://www.datacamp.com/courses/free-introduction-to-r) course that is popular.
 * You will also learn a lot by comparing your homework solutions to the ones I provide, although keep in mind that the way I code up solutions to the homework problems is rarely the only way someone could code them up!
     

@@ -9,13 +9,28 @@
 Summary of Tasks:
   
 - Submit a data set;
-- Choose a data set from the approved datasets;
-- Submit first analysis;
-- Submit second analysis;
-- Submit final paper.
+- Choose a data set for ARIMA modeling from the approved datasets:
+    - [Anomaly](https://github.com/maryclare/atsa/blob/master/content/data/Anomaly.RData)
+    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricty.RData)
+    - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
+    - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
+    - Storage (will be uploaded by Saturday, 4/13/19)
+
+- Submit first analysis as part of Homework 7
+- Choose a data set for state-space modeling from the approved datasets:
+    - [Anomaly](https://github.com/maryclare/atsa/blob/master/content/data/Anomaly.RData)
+    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricty.RData)
+    - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
+    - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
+    - Storage (will be uploaded by Saturday, 4/13/19)
+    - [Air](https://github.com/maryclare/atsa/blob/master/content/data/Air.RData)
+    - [Beijing](https://github.com/maryclare/atsa/blob/master/content/data/Beijing.RData)
+
+- Submit second analysis as part of Homework 8
+- Submit final paper on Tuesday, 5/7/19 by 11:59pm.
 
   
-  Before spring break, I will collect potential datasets. Over spring break, I will explore the submitted data and decide which ones seem well suited for the project. Three of the data sets that I deem well suited for the project will beselected from the rest according to the results of an in class survey. You may choose from these three for your final project.
+  Before spring break, I will collect potential datasets. Over spring break, I will explore the submitted data and decide which ones seem well suited for the project. 
   
   
   
@@ -62,8 +77,8 @@ A template will be provided.
 It will be graded out of 25 points as follows:
 - (5 points) Accurate description of changes made according to instructor and teaching assistant feedback on previous versions;
 - (4 points) Introduction and exploratory analyses;
-- (6 points) First analysis;
-- (6 points) Second analysis;
+- (6 points) First analysis, focused on ARIMA modeling;
+- (6 points) Second analysis, focused on state-space modeling;
 - (4 points) Conclusions.
 
 One bonus point will be added if the student submitted a suggested dataset by 12:00pm noon on Sunday, March 31.

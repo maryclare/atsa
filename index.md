@@ -4,7 +4,10 @@ layout: atsa
 
 News
 -------
-* Friday, 4/9/19
+* Thursday, 4/11/19
+  - Datasets and some updated information on projects have been posted to the [project page](https://maryclare.github.io/atsa/project.html).
+  - I have posted [Homework 7](https://maryclare.github.io/atsa/content/homework/hw_7.pdf).
+* Tuesday, 4/9/19
   - Notes so far on [state-space models](https://maryclare.github.io/atsa/content/notes/notes_9.pdf) have been posted.
   - [Code example for a state-space model](https://maryclare.github.io/atsa/code/code_8.R) has been posted.
 * Friday, 3/29/19
