@@ -11,7 +11,7 @@ Summary of Tasks:
 - Submit a data set;
 - Choose a data set for ARIMA modeling from the approved datasets:
     - [Anomaly](https://github.com/maryclare/atsa/blob/master/content/data/Anomaly.RData)
-    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricty.RData)
+    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricity.RData)
     - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
     - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
     - Storage (will be uploaded by Saturday, 4/13/19)
@@ -19,7 +19,7 @@ Summary of Tasks:
 - Submit first analysis as part of Homework 7
 - Choose a data set for state-space modeling from the approved datasets:
     - [Anomaly](https://github.com/maryclare/atsa/blob/master/content/data/Anomaly.RData)
-    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricty.RData)
+    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricity.RData)
     - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
     - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
     - Storage (will be uploaded by Saturday, 4/13/19)
