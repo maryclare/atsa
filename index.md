@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Saturday, 4/13/19
+  - [Homework 6 solutions](https://maryclare.github.io/atsa/content/homework/hw_6_sol.pdf) posted.
 * Thursday, 4/11/19
   - Datasets and some updated information on projects have been posted to the [project page](https://maryclare.github.io/atsa/project.html).
   - I have posted [Homework 7](https://maryclare.github.io/atsa/content/homework/hw_7.pdf).
