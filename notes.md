@@ -34,10 +34,11 @@ Supplementary Lecture Material:
 * An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [`model_select.pdf`](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf)
 
 Lab Materials:
-* Materials for fourth lab on Friday 3/22/19: [`lab8`](https://github.com/maryclare/atsa/tree/master/content/labs/lab8)
-* Materials for fourth lab on Friday 3/15/19: [`lab7`](https://github.com/maryclare/atsa/tree/master/content/labs/lab7)
-* Materials for fourth lab on Friday 3/8/19: [`lab6`](https://github.com/maryclare/atsa/tree/master/content/labs/lab6)
-* Materials for fourth lab on Friday 3/1/19: [`lab5`](https://github.com/maryclare/atsa/tree/master/content/labs/lab5)
+* Materials for ninth lab on Friday 4/12/19: [`lab9`](https://github.com/maryclare/atsa/tree/master/content/labs/lab9)
+* Materials for eighth lab on Friday 3/22/19: [`lab8`](https://github.com/maryclare/atsa/tree/master/content/labs/lab8)
+* Materials for seventh lab on Friday 3/15/19: [`lab7`](https://github.com/maryclare/atsa/tree/master/content/labs/lab7)
+* Materials for sixth lab on Friday 3/8/19: [`lab6`](https://github.com/maryclare/atsa/tree/master/content/labs/lab6)
+* Materials for fifth lab on Friday 3/1/19: [`lab5`](https://github.com/maryclare/atsa/tree/master/content/labs/lab5)
 * Materials for fourth lab on Friday 2/15/19: [`lab4`](https://github.com/maryclare/atsa/tree/master/content/labs/lab4)
 * Materials for third lab on Friday 2/8/19: [`lab3`](https://github.com/maryclare/atsa/tree/master/content/labs/lab3)
 * Materials for second lab on Friday 2/1/19: [`lab2`](https://github.com/maryclare/atsa/tree/master/content/labs/lab2)
