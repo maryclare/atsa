@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Tuesday, 4/16/19
+   - I've added solutions to [Exam 2](https://maryclare.github.io/atsa/content/exams/ex_2_sol.pdf). Summary statistics and a histogram are included in the solutions.
 * Sunday, 4/14/19
   - [Lab 9 material](https://github.com/maryclare/atsa/tree/master/content/labs/lab9) from Friday 4/12/19 is online.
 * Saturday, 4/13/19
