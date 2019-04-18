@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Wednesday, 4/17/19
+  - Notes on [state-space models](https://maryclare.github.io/atsa/content/notes/notes_9.pdf) have been updated.
 * Tuesday, 4/16/19
    - I've added solutions to [Exam 2](https://maryclare.github.io/atsa/content/exams/ex_2_sol.pdf). Summary statistics and a histogram are included in the solutions.
 * Sunday, 4/14/19
