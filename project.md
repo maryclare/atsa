@@ -28,7 +28,7 @@ Summary of Tasks:
     - [Beijing](https://github.com/maryclare/atsa/blob/master/content/data/Beijing.RData)
 
 - Submit second analysis as part of Homework 8
-- Submit final paper on Tuesday, 5/7/19 by 11:59pm.
+- Submit final paper on Thursday, 5/7/19 by 11:59pm.
 
   
   

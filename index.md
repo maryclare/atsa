@@ -5,6 +5,9 @@ layout: atsa
 News
 -------
 * Friday, 4/18/19
+  - I have extended the final homework (Homework 8) deadline to Tuesday 4/30/19 because we haven't quite covered enough new material to have a final homework assisgment due next week.
+  - I have decided *not* to move the final exam. It will be as scheduled, during lab on Friday 5/3/19.
+  - I have moved the final project deadline to Thursday, 5/9/19 by 11:59pm.
   - The additional code for working with [state-space models](https://maryclare.github.io/atsa/code/code_9.R) that was presented in class Thursday has been posted.
 * Wednesday, 4/17/19
   - Notes on [state-space models](https://maryclare.github.io/atsa/content/notes/notes_9.pdf) have been updated.
