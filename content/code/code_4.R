@@ -31,6 +31,10 @@ scaled.periodogram <- function(x) {
   return(list("coef.mags" = coef.mags, "freqs" = 0:(m - 1)/n, "Z" = Z))
 }
 
+n <- 100
+x <- rnorm(n)
+m <- ifelse(n%%2 == 0, n/2, (n - 1)/2 + 1)
+
 # These are all different ways of computing the periodogram that give the same answer!
 par(mfrow = c(1, 1))
 spectrum(x, fast = FALSE, # If fast=TRUE, some extra 0's may get appendeded to x to make the FFT faster
@@ -67,7 +71,8 @@ freqs <- sort(sample(seq(0, 0.5, length.out = 10000), r, replace = FALSE))
 
 # Construct some sigma^2 values - we do it this way to make sure
 # that as r gets bigger, the spectral density function will be continuous
-sig.sqs <- bs(freqs, degree = 3, df = 10)%*%abs(rnorm(d))
+d <- 10
+sig.sqs <- bs(freqs, degree = 3, df = d)%*%abs(rnorm(d))
 
 par(mfrow = c(2, 2))
 plot(freqs, sig.sqs, pch = 16, xlab = "Frequency",

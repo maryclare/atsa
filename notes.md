@@ -9,6 +9,8 @@ Please keep in mind that these will be updated periodically as I catch and am ot
 
 Lecture Notes:
 * State-Space Models: [`notes_9.pdf`](https://maryclare.github.io/atsa/content/notes/notes_9.pdf)
+* ARFIMA: `notes_8.pdf` 
+    * Coming soon, will not be tested or on homeworks. From last lecture before spring break.
 * Non-Stationarity, ARIMA, ARCH/GARCH: [`notes_7.pdf`](https://maryclare.github.io/atsa/content/notes/notes_7.pdf)
 * Spectral Analysis/The Spectral Domain: [`notes_6.pdf`](https://maryclare.github.io/atsa/content/notes/notes_6.pdf)
 * Estimation and Model Selection: [`notes_5.pdf`](https://maryclare.github.io/atsa/content/notes/notes_5.pdf)
@@ -18,6 +20,7 @@ Lecture Notes:
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
 Lecture Code:
+* More State-Space Modeling: [`code_8.R`](https://maryclare.github.io/atsa/content/code/code_9.R)
 * State-Space Modeling: [`code_8.R`](https://maryclare.github.io/atsa/content/code/code_8.R)
 * Fractional Differencing/ARFIMA: [`code_7.R`](https://maryclare.github.io/atsa/content/code/code_7.R)
 * ARCH/GARCH: [`code_6.R`](https://maryclare.github.io/atsa/content/code/code_6.R)

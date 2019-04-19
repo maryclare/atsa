@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Friday, 4/18/19
+  - The additional code for working with [state-space models](https://maryclare.github.io/atsa/code/code_9.R) that was presented in class Thursday has been posted.
 * Wednesday, 4/17/19
   - Notes on [state-space models](https://maryclare.github.io/atsa/content/notes/notes_9.pdf) have been updated.
 * Tuesday, 4/16/19
