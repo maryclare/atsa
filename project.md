@@ -13,9 +13,9 @@ Summary of Tasks:
     - [Anomaly](https://github.com/maryclare/atsa/blob/master/content/data/Anomaly.RData)
         - Monthly measurements of the average deviation of temperature measurements from meterological stations and the ocean from their 1951-1980 averages. Measured from 1980 into 2018. This data was downloaded from [NASA](https://data.giss.nasa.gov/gistemp/).
     - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
-        - Daily adjusted closing prices of Apple, Adobe, Amazon, Facebook, Google, and the S&P 500 from the beginning of 2017 into 2019. This data was downloaded from [Yahoo Finance](https://finance.yahoo.com).
+        - Daily adjusted closing prices of Apple, Adobe, Amazon, Facebook, Google, and the S&P 500 from the beginning of 2017 into 2019. This data was downloaded from [Yahoo Finance](https://finance.yahoo.com). Note that the daily measurements do not include weekends, so a "week" of data corresponds to five consecutive days. We will just treat Friday to Monday as one unit of time apart.
     - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
-        - Daily three month and ten year treasury yield curve rates. This data was downloaded from the [United States Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield).
+        - Daily three month and ten year treasury yield curve rates. This data was downloaded from the [United States Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield). Note that the daily measurements do not include weekends, so a "week" of data corresponds to five consecutive days. We will just treat Friday to Monday as one unit of time apart.
 
 - Submit first analysis as part of Homework 7
 - Choose a data set for state-space modeling from the approved datasets:
