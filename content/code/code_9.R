@@ -74,8 +74,11 @@ y[(n - 24 + 1):n] <- NA
 
 # We want to let the 
 # Since a_t isn't going to be estimated from the data anymore as a constant, we'll let 
-# the state equation have an overall level u
-model.streg <- list(B=matrix("phi"), U=matrix("u"), Q=matrix("sig.sq.w"), 
+# the state equation have an overall level  
+# (This is a little different from how we did this in class, but more consistent with what we've learned and
+#  the notation/nodel we've used in class)
+model.streg <- list(B=matrix("phi"), U=matrix(0), Q=matrix("sig.sq.w"), 
+                    C="unconstrained", c=matrix(1, nrow = 1, ncol = n), # Add an intercept in the state equation
                     Z=array(1:n, dim = c(1, 1, n)), A=matrix(0), R=matrix("sig.sq.v"),
                     x0=matrix("mu"), tinitx=0 )
 
@@ -102,7 +105,8 @@ lines(c(t), c((1:n)*kf.streg$xtt1) - qnorm(0.975)*ses, col = "blue", lty = 2)
 # setting the initial value at x_1 - thanks to a student for pointing out how
 # to do this by resetting tinitx!
 
-model.streg1 <- list(B=matrix("phi"), U=matrix("u"), Q=matrix("sig.sq.w"), 
+model.streg1 <- list(B=matrix("phi"), U=matrix(0), Q=matrix("sig.sq.w"), 
+                     C="unconstrained", c=matrix(1, nrow = 1, ncol = n), # Add an intercept in the state equation
                     Z=array(1:n, dim = c(1, 1, n)), A=matrix(0), R=matrix("sig.sq.v"),
                     x0=matrix("mu"), tinitx=1 )
 
@@ -120,7 +124,8 @@ lines(c(t), c((1:n)*kf.streg1$xtt1) - qnorm(0.975)*ses, col = "red", lty = 2)
 
 # What if instead of fixing the initial value, we assumed it had a distribution with a very large variance
 # V0 controls the variance
-model.streg.varx1 <- list(B=matrix("phi"), U=matrix("u"), Q=matrix("sig.sq.w"), 
+model.streg.varx1 <- list(B=matrix("phi"), U=matrix(0), Q=matrix("sig.sq.w"), 
+                      C="unconstrained", c=matrix(1, nrow = 1, ncol = n), # Add an intercept in the state equation
                      Z=array(1:n, dim = c(1, 1, n)), A=matrix(0), R=matrix("sig.sq.v"),
                      x0=matrix("mu"), V0=matrix(10000), tinitx=0)
 
