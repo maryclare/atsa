@@ -5,6 +5,7 @@ layout: atsa
 News
 -------
 * Friday, 4/18/19
+  - [Lab 10 material](https://github.com/maryclare/atsa/tree/master/content/labs/lab10) from Friday 4/17/19 is online.
   - I have extended the final homework (Homework 8) deadline to Tuesday 4/30/19 because we haven't quite covered enough new material to have a final homework assisgment due next week.
   - I have decided *not* to move the final exam. It will be as scheduled, during lab on Friday 5/3/19.
   - I have moved the final project deadline to Thursday, 5/9/19 by 11:59pm.

@@ -38,6 +38,7 @@ Supplementary Lecture Material:
 * An improved version of the figure I drew to explain model selection for AR(p)/MA(q) models: [`model_select.pdf`](https://github.com/maryclare/atsa/tree/master/content/notes/model_select.pdf)
 
 Lab Materials:
+* Materials for tenth lab on Friday 4/17/19: [`lab10`](https://github.com/maryclare/atsa/tree/master/content/labs/lab10)
 * Materials for ninth lab on Friday 4/12/19: [`lab9`](https://github.com/maryclare/atsa/tree/master/content/labs/lab9)
 * Materials for eighth lab on Friday 3/22/19: [`lab8`](https://github.com/maryclare/atsa/tree/master/content/labs/lab8)
 * Materials for seventh lab on Friday 3/15/19: [`lab7`](https://github.com/maryclare/atsa/tree/master/content/labs/lab7)
