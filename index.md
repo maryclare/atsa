@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Wednesday, 4/18/19
+  - [Code from class](https://maryclare.github.io/atsa/content/code/code_10.R) yesterday has been posted.
+  - [Homework 8](https://maryclare.github.io/atsa/content/homework/hw_8.pdf) has been posted.
 * Friday, 4/18/19
   - [Lab 10 material](https://github.com/maryclare/atsa/tree/master/content/labs/lab10) from Friday 4/17/19 is online.
   - I have extended the final homework (Homework 8) deadline to Tuesday 4/30/19 because we haven't quite covered enough new material to have a final homework assisgment due next week.

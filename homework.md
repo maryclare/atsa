@@ -6,6 +6,7 @@ Homework
 -------
 
 ## Assignments
+* [Homework 8](https://maryclare.github.io/atsa/content/homework/hw_8.pdf)
 * [Homework 7](https://maryclare.github.io/atsa/content/homework/hw_7.pdf)
 * [Homework 6](https://maryclare.github.io/atsa/content/homework/hw_6.pdf)
      - [Homework 6 Solutions](https://maryclare.github.io/atsa/content/homework/hw_6_sol.pdf)
