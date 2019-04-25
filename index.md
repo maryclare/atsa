@@ -4,7 +4,9 @@ layout: atsa
 
 News
 -------
-* Wednesday, 4/18/19
+* Thursday, 4/25/19
+  - [Code from today's class](https://maryclare.github.io/atsa/content/code/code_11.R) has been posted.
+* Wednesday, 4/24/19
   - [Code from class](https://maryclare.github.io/atsa/content/code/code_10.R) yesterday has been posted.
   - [Homework 8](https://maryclare.github.io/atsa/content/homework/hw_8.pdf) has been posted.
 * Friday, 4/18/19

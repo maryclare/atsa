@@ -4,6 +4,7 @@ library(astsa)
 library(forecast)
 library(rugarch)
 library(stochvol)
+library(coda)
 
 data("nyse")
 nyse <- nyse - mean(nyse)
