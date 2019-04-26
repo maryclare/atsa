@@ -25,5 +25,3 @@ X <- cbind(soi, rec)
 X <- apply(X, 2, function(x) {x - mean(x)})
 var <- ar(X, aic = FALSE, order.max = 1,  
           method = "yw")
-
-
