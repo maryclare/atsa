@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Saturday, 4/27/19
+   - [Homework 7 solutions](https://maryclare.github.io/atsa/content/homework/hw_7_sol.pdf) posted.
 * Friday, 4/26/19
    - [Lab 11 material](https://github.com/maryclare/atsa/tree/master/content/labs/lab11) from Friday 4/26/19 is online.
    - Notes on [stochastic volatility](https://maryclare.github.io/atsa/content/notes/notes_10.pdf) have been posted.
