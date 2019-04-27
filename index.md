@@ -5,7 +5,7 @@ layout: atsa
 News
 -------
 * Friday, 4/26/19
-   - [Lab 11 material](https://github.com/maryclare/atsa/tree/master/content/labs/lab11) from Friday 4/16/19 is online.
+   - [Lab 11 material](https://github.com/maryclare/atsa/tree/master/content/labs/lab11) from Friday 4/26/19 is online.
    - Notes on [stochastic volatility](https://maryclare.github.io/atsa/content/notes/notes_10.pdf) have been posted.
 * Thursday, 4/25/19
   - [Code from today's class](https://maryclare.github.io/atsa/content/code/code_11.R) has been posted.
