@@ -59,7 +59,7 @@ It will be graded out of 25 points as follows:
         - Changing the definition of a season to account for seasonality
         - Performing a variance stabilizing transformation
         - Adding one or more additional covariates
-    - Select and fit **one** multivariate state-space model with the last 10% of observations withheld. For your multivariate state-space model, you can make the observation equation multivariate, the state equation multivariate (this is what you have to do you chose the `Electricity` data set, which is univariate), or both the observation and state equations multivariate. Select the specific state-space model based on AIC/AICc/SIC, and justify your choice.
+    - Select and fit **one** multivariate state-space model with the last 10% of observations withheld. For your multivariate state-space model, you can make the observation equation multivariate, the state equation multivariate (this is what you have to do you chose the `Electricity` data set, which is univariate), or both the observation and state equations multivariate. Select the specific multivariate state-space model based on AIC/AICc/SIC, and justify your choice.
 - (3 points) Conclusions of analysis of state-space data from HW 8
     - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusions.
