@@ -49,8 +49,7 @@ It will be graded out of 25 points as follows:
     - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
         - Performing a variance stabilizing transformation
         - Adding one or more covariates
-    - Select and fit **one** **VARMA** model that simultaneously models at least two of the time series simultaneously with the last 10% of observations withheld. Justify the specific **VARMA** model you choose based on what you learned in class.
-    - Without looking at the forecasts, describe which model you would prefer based on AIC/AICc/SIC. Justify your choice of model.
+    - Select and fit **one** **VARMA** model that simultaneously models at least two of the time series simultaneously with the last 10% of observations withheld. Select the specific **VARMA** model based on AIC/AICc/SIC, and justify your choice.
 - (2 points) Conclusions of analysis of ARIMA data from HW 7
     - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusion.  
@@ -60,8 +59,7 @@ It will be graded out of 25 points as follows:
         - Changing the definition of a season to account for seasonality
         - Performing a variance stabilizing transformation
         - Adding one or more additional covariates
-    - Select and fit **one** multivariate state space model that models at least two of the time series simultanously with the last 10% of observations withheld. Justify the specific multivariate state-space model you choose based on what you learned in class.
-   - Without looking at the forecasts, describe which model you would prefer based on AIC/AICc/SIC. Justify your choice of model.
+    - Select and fit **one** multivariate state space model that models at least two of the time series simultanously with the last 10% of observations withheld. Select the specific **VARMA** model based on AIC/AICc/SIC, and justify your choice.
 - (2 points) Conclusions of analysis of state-space data from HW 8
     - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusions.
