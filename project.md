@@ -42,8 +42,8 @@ A template will be provided.
 It will be graded out of 25 points as follows:
 
 - (5 points) Accurate description of changes made according to instructor and teaching assistant feedback on previous versions:
-      - Print comments and bulleted responses
-      - No more than one page
+    - Print comments and bulleted responses
+    - No more than one page
 - (2 points) Introduction and exploratory analysis of ARIMA data from HW 7
 - (6 points) First analysis of ARIMA data from HW 7 but with last 10% of observations witheld
     - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
