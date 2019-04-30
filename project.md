@@ -28,9 +28,51 @@ Summary of Tasks:
     - [Beijing](https://github.com/maryclare/atsa/blob/master/content/data/Beijing.RData)
 
 - Submit second analysis as part of Homework 8
-- Submit final paper on Thursday, 5/7/19 by 11:59pm.
+- Submit final paper on Thursday, 5/7/19 by 11:59pm. See below for guidelines.
 
+## Rubric for Final Paper
   
+The final project will be:
+- 5 pages long including figures and tables, excluding `R` code and references;
+- Double spaced, with font size 12 and 1 inch margins;
+- Written using `R` Markdown;
+- Be accompanied by `R` code that reproduces all results.
+  
+A template will be provided.
+  
+It will be graded out of 25 points as follows:
+
+- (5 points) Accurate description of changes made according to instructor and teaching assistant feedback on previous versions:
+      - Print comments and bulleted responses
+      - No more than one page
+- (2 points) Introduction and exploratory analysis of ARIMA data from HW 7
+- (6 points) First analysis of ARIMA data from HW 7 but with last 10\% of observations witheld
+    - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
+        - Performing a variance stabilizing transformation
+        - Adding one or more covariates
+    - Select and fit **one** **VARMA** model that simultaneously models at least two of the time series simultaneously with the last 10% of observations withheld. Justify the specific **VARMA** model you choose based on what you learned in class.
+    - Without looking at the forecasts, describe which model you would prefer based on AIC/AICc/SIC. Justify your choice of model.
+- (2 points) Conclusions of analysis of ARIMA data from HW 7
+    - Compare forecasts and 95\% intervals for the remaining 10% of observations from the first time series, alongside the true values.
+    - Indicate which of the four models you prefer and justify your conclusion.  
+- (2 points) Introduction and exploratory analyses of state-space data from HW 8
+- (6 points) Second analysis, of state-space data from HW 8 but with last 10\% of observations witheld
+    - Repeat the univariate state-space analysis from HW 8, using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
+        - Changing the definition of a season to account for seasonality
+        - Performing a variance stabilizing transformation
+        - Adding one or more additional covariates
+    - Select and fit **one** multivariate state space model that models at least two of the time series simultanously with the last 10% of observations withheld. Justify the specific multivariate state-space model you choose based on what you learned in class.
+   - Without looking at the forecasts, describe which model you would prefer based on AIC/AICc/SIC. Justify your choice of model.
+- (2 points) Conclusions of analysis of state-space data from HW 8
+    - Compare forecasts and 95\% intervals for the remaining 10% of observations from the first time series, alongside the true values.
+    - Indicate which of the four models you prefer and justify your conclusions.
+
+One bonus point will be added if the student submitted a suggested dataset by 12:00pm noon on Sunday, March 31.
+
+Some miscellaneous notes:
+
+  - Introduction and exploratory analysis could include ACF/PACF/smoothed periodogram/subset mean/subset variance plots, and a discussion of any possibly unusual or complicated features of the data, etc.
+  - Any time you select a model based on one of several possible tests or one of several possible criteria, justify the test or criteria you use! For instance, if you use augmented Dickey-Fuller comment on why you do that instead of using Dickey-Fuller or Phillips-Perron. Similarly, if you use AICc, explain why you do that instead of using AIC or SIC.  
   
   
 ## Submitting a Potential Dataset
@@ -64,23 +106,4 @@ Here are some links to some places to look for data, which range from data repos
 
 Before spring break, I will collect potential datasets. Over spring break, I will explore the submitted data and decide which ones seem well suited for the project. 
    
-  
-## Rubric for Final Paper
-  
-The final project will be:
-- 5 pages long including figures and tables, excluding `R` code and references;
-- Double spaced, with font size 12 and 1 inch margins;
-- Written using `R` Markdown;
-- Be accompanied by `R` code that reproduces all results.
-  
-A template will be provided.
-  
-It will be graded out of 25 points as follows:
-- (5 points) Accurate description of changes made according to instructor and teaching assistant feedback on previous versions;
-- (4 points) Introduction and exploratory analyses;
-- (6 points) First analysis, focused on ARIMA modeling;
-- (6 points) Second analysis, focused on state-space modeling;
-- (4 points) Conclusions.
-
-One bonus point will be added if the student submitted a suggested dataset by 12:00pm noon on Sunday, March 31.
   
