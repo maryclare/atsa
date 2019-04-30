@@ -23,7 +23,6 @@ Summary of Tasks:
     - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricity.RData)
     - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
     - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
-    - Storage (will be uploaded soon)
     - [Air](https://github.com/maryclare/atsa/blob/master/content/data/Air.RData)
     - [Beijing](https://github.com/maryclare/atsa/blob/master/content/data/Beijing.RData)
 
@@ -46,7 +45,7 @@ It will be graded out of 25 points as follows:
       - Print comments and bulleted responses
       - No more than one page
 - (2 points) Introduction and exploratory analysis of ARIMA data from HW 7
-- (6 points) First analysis of ARIMA data from HW 7 but with last 10\% of observations witheld
+- (6 points) First analysis of ARIMA data from HW 7 but with last 10% of observations witheld
     - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
         - Performing a variance stabilizing transformation
         - Adding one or more covariates
@@ -56,7 +55,7 @@ It will be graded out of 25 points as follows:
     - Compare forecasts and 95\% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusion.  
 - (2 points) Introduction and exploratory analyses of state-space data from HW 8
-- (6 points) Second analysis, of state-space data from HW 8 but with last 10\% of observations witheld
+- (6 points) Second analysis, of state-space data from HW 8 but with last 10% of observations witheld
     - Repeat the univariate state-space analysis from HW 8, using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
         - Changing the definition of a season to account for seasonality
         - Performing a variance stabilizing transformation

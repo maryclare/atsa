@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Monday, 4/29/19
+   - [Project instructions](https://maryclare.github.io/atsa/project.html) updated.
 * Saturday, 4/27/19
    - [Homework 7 solutions](https://maryclare.github.io/atsa/content/homework/hw_7_sol.pdf) posted.
 * Friday, 4/26/19
