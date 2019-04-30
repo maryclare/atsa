@@ -41,26 +41,26 @@ A template will be provided.
   
 It will be graded out of 25 points as follows:
 
-- (5 points) Accurate description of changes made according to instructor and teaching assistant feedback on previous versions:
-    - Print comments and bulleted responses
-    - No more than one page
+
 - (2 points) Introduction and exploratory analysis of ARIMA data from HW 7
-- (6 points) First analysis of ARIMA data from HW 7 but with last 10% of observations witheld
+- (7.5 points) First analysis of ARIMA data from HW 7 but with last 10% of observations witheld
     - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
+        - Corrections of mistakes that were identified on HW 7
         - Performing a variance stabilizing transformation
         - Adding one or more covariates
     - Select and fit **one** **VARMA** model that simultaneously models at least two of the time series simultaneously with the last 10% of observations withheld. Select the specific **VARMA** model based on AIC/AICc/SIC, and justify your choice.
-- (2 points) Conclusions of analysis of ARIMA data from HW 7
+- (3 points) Conclusions of analysis of ARIMA data from HW 7
     - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusion.  
 - (2 points) Introduction and exploratory analyses of state-space data from HW 8
-- (6 points) Second analysis, of state-space data from HW 8 but with last 10% of observations witheld
+- (7.5 points) Second analysis, of state-space data from HW 8 but with last 10% of observations witheld
     - Repeat the univariate state-space analysis from HW 8, using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
+        - Corrections of mistakes that were identified on HW 7
         - Changing the definition of a season to account for seasonality
         - Performing a variance stabilizing transformation
         - Adding one or more additional covariates
-    - Select and fit **one** multivariate state-space model with the last 10% of observations withheld. For your multivariate state-space model, you can make the observation equation multivariate, the state equation multivariate (this is what you have to do you chose the `Electricity` data set, which is univariate), or both the observation and state equations multivariate. Select the specific **VARMA** model based on AIC/AICc/SIC, and justify your choice.
-- (2 points) Conclusions of analysis of state-space data from HW 8
+    - Select and fit **one** multivariate state-space model with the last 10% of observations withheld. For your multivariate state-space model, you can make the observation equation multivariate, the state equation multivariate (this is what you have to do you chose the `Electricity` data set, which is univariate), or both the observation and state equations multivariate. Select the specific state-space model based on AIC/AICc/SIC, and justify your choice.
+- (3 points) Conclusions of analysis of state-space data from HW 8
     - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusions.
 
