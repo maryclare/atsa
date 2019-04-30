@@ -52,7 +52,7 @@ It will be graded out of 25 points as follows:
     - Select and fit **one** **VARMA** model that simultaneously models at least two of the time series simultaneously with the last 10% of observations withheld. Justify the specific **VARMA** model you choose based on what you learned in class.
     - Without looking at the forecasts, describe which model you would prefer based on AIC/AICc/SIC. Justify your choice of model.
 - (2 points) Conclusions of analysis of ARIMA data from HW 7
-    - Compare forecasts and 95\% intervals for the remaining 10% of observations from the first time series, alongside the true values.
+    - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusion.  
 - (2 points) Introduction and exploratory analyses of state-space data from HW 8
 - (6 points) Second analysis, of state-space data from HW 8 but with last 10% of observations witheld
@@ -63,7 +63,7 @@ It will be graded out of 25 points as follows:
     - Select and fit **one** multivariate state space model that models at least two of the time series simultanously with the last 10% of observations withheld. Justify the specific multivariate state-space model you choose based on what you learned in class.
    - Without looking at the forecasts, describe which model you would prefer based on AIC/AICc/SIC. Justify your choice of model.
 - (2 points) Conclusions of analysis of state-space data from HW 8
-    - Compare forecasts and 95\% intervals for the remaining 10% of observations from the first time series, alongside the true values.
+    - Compare forecasts and 95% intervals for the remaining 10% of observations from the first time series, alongside the true values.
     - Indicate which of the four models you prefer and justify your conclusions.
 
 One bonus point will be added if the student submitted a suggested dataset by 12:00pm noon on Sunday, March 31.
