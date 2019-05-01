@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Tuesday, 4/30/19
+   - [The code we went over in class today](https://maryclare.github.io/atsa/content/code/code_12.R)  has been posted.
 * Monday, 4/29/19
    - [Project instructions](https://maryclare.github.io/atsa/project.html) updated.
 * Saturday, 4/27/19
