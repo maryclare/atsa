@@ -8,6 +8,8 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
+* Basic Multivariate Time Series Concepts: [`notes_12.pdf`](https://maryclare.github.io/atsa/content/notes/notes_12.pdf)
+* Multivariate Regression: [`notes_11.pdf`](https://maryclare.github.io/atsa/content/notes/notes_11.pdf)
 * Stochastic Volatility Models: [`notes_10.pdf`](https://maryclare.github.io/atsa/content/notes/notes_10.pdf)
 * State-Space Models: [`notes_9.pdf`](https://maryclare.github.io/atsa/content/notes/notes_9.pdf)
 * ARFIMA: `notes_8.pdf` 

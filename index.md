@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Wednesday, 5/1/19
+  - Notes on [multivariate regression/the general linear model](https://maryclare.github.io/atsa/content/notes/notes_11.pdf) and notes on [basic time series concepts for multivariate time series](https://maryclare.github.io/atsa/content/notes/notes_12.pdf) have been posted.
 * Tuesday, 4/30/19
    - [The code we went over in class today](https://maryclare.github.io/atsa/content/code/code_12.R)  has been posted.
 * Monday, 4/29/19
