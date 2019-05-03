@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Thursday 5/2/19
+- Code from class on [VAR/VMA/VARMA](https://maryclare.github.io/atsa/content/code/code_13.R) and [multivariate state-space models](https://maryclare.github.io/atsa/content/code/code_14.R) has been posted.
 * Wednesday, 5/1/19
   - Notes on [multivariate regression/the general linear model](https://maryclare.github.io/atsa/content/notes/notes_11.pdf) and notes on [basic time series concepts for multivariate time series](https://maryclare.github.io/atsa/content/notes/notes_12.pdf) have been posted.
 * Tuesday, 4/30/19

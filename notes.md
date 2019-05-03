@@ -23,6 +23,8 @@ Lecture Notes:
 * Introduction and a review of linear regression: [`notes_1.pdf`](https://maryclare.github.io/atsa/content/notes/notes_1.pdf)
 
 Lecture Code:
+* Multivariate State-Space Models: [`code_14.R`](https://maryclare.github.io/atsa/content/code/code_14.R)
+* VAR/VMA/VARMA: [`code_13.R`](https://maryclare.github.io/atsa/content/code/code_13.R)
 * More Vector Autoregressive Models: [`code_12.R`](https://maryclare.github.io/atsa/content/code/code_12.R)
 * Vector Autoregressive Models: [`code_11.R`](https://maryclare.github.io/atsa/content/code/code_11.R)
 * Stochastic Volatility Modeling: [`code_10.R`](https://maryclare.github.io/atsa/content/code/code_10.R)
