@@ -20,14 +20,20 @@ Summary of Tasks:
 - Submit first analysis as part of Homework 7
 - Choose a data set for state-space modeling from the approved datasets:
     - [Anomaly](https://github.com/maryclare/atsa/blob/master/content/data/Anomaly.RData)
-    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricity.RData)
+        - Monthly measurements of the average deviation of temperature measurements from meterological stations and the ocean from their 1951-1980 averages. Measured from 1980 into 2018. This data was downloaded from [NASA](https://data.giss.nasa.gov/gistemp/).
     - [Stocks](https://github.com/maryclare/atsa/blob/master/content/data/Stocks.RData)
+        - Daily adjusted closing prices of Apple, Adobe, Amazon, Facebook, Google, and the S&P 500 from the beginning of 2017 into 2019. This data was downloaded from [Yahoo Finance](https://finance.yahoo.com). Note that the daily measurements do not include weekends, so a "week" of data corresponds to five consecutive days. We will just treat Friday to Monday as one unit of time apart.
     - [Yields](https://github.com/maryclare/atsa/blob/master/content/data/Yields.RData)
+        - Daily three month and ten year treasury yield curve rates. This data was downloaded from the [United States Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield). Note that the daily measurements do not include weekends, so a "week" of data corresponds to five consecutive days. We will just treat Friday to Monday as one unit of time apart.
+    - [Electricity](https://github.com/maryclare/atsa/blob/master/content/data/Electricity.RData)
+        - Monthly electricity production in Australia measured in million kilowatt hours, from January 1956 to August 1995. This data was downloaded from [Data Market](https://datamarket.com/data/set/22l0/monthly-electricity-production-in-australia-million-kilowatt-hours-jan-1956-aug-1995#!ds=22l0&display=line), and originally collected by the Australian Bureau of Statistics.
     - [Air](https://github.com/maryclare/atsa/blob/master/content/data/Air.RData)
+        - Hourly air quality measurements of the true amount of airborne carbon dioxide, an approximate measure of airborne carbon dioxide, the temperature, relative humidity, and humidity for 9357 hours starting on December, 1899. The data was downloaded from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/air+quality).
     - [Beijing](https://github.com/maryclare/atsa/blob/master/content/data/Beijing.RData)
+        - Hourly PM2.5 concentration (a measure of air pollution), dew point, temperature, air pressure, wind speed, hours of snow, and hours of rain in measured at the US Embassy in Beijing, China measured from January 1, 2010 to December 31, 2014. This data was downloaded from the [UCI Machine Learning Respository](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data).
 
 - Submit second analysis as part of Homework 8
-- Submit final paper on Thursday, 5/7/19 by 11:59pm. See below for guidelines.
+- Submit final paper on Thursday, 5/9/19 by 11:59pm. See below for guidelines.
 
 ## Rubric for Final Paper
   
@@ -36,8 +42,6 @@ The final project will be:
 - Double spaced, with font size 12 and 1 inch margins;
 - Written using `R` Markdown;
 - Be accompanied by `R` code that reproduces all results.
-  
-A template will be provided.
   
 It will be graded out of 25 points as follows:
 
