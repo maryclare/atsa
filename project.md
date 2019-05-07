@@ -49,7 +49,7 @@ It will be graded out of 25 points as follows:
 
 - (2 points) Introduction and exploratory analysis of ARIMA data from HW 7
 - (7.5 points) First analysis of ARIMA data from HW 7 but with last 10% of observations witheld
-    - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
+    - Repeat the univariate time series analysis analysis requested in HW 7 using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of (**optional**) changes include:
         - Corrections of mistakes that were identified on HW 7
         - Performing a variance stabilizing transformation
         - Adding one or more covariates
@@ -59,7 +59,7 @@ It will be graded out of 25 points as follows:
     - Indicate which of the four models you prefer and justify your conclusion.  
 - (2 points) Introduction and exploratory analyses of state-space data from HW 8
 - (7.5 points) Second analysis, of state-space data from HW 8 but with last 10% of observations witheld
-    - Repeat the univariate state-space analysis from HW 8, using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of changes include:
+    - Repeat the univariate state-space analysis from HW 8, using just the first time series but with the last 10% of observations withheld, making any changes that you think are needed. Make sure you justify any changes. Examples of (**optional**) changes include:
         - Corrections of mistakes that were identified on HW 8
         - Changing the definition of a season to account for seasonality
         - Performing a variance stabilizing transformation
