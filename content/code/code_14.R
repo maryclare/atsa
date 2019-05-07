@@ -18,7 +18,7 @@ model <-  list(
   B=matrix(1),
   U=matrix(0, 1, 1),
   Q=matrix("q"),
-  Z=matrix(1,2,1), # State equation
+  Z=matrix(1,2,1), # Observation equation
   A=matrix(0, 2, 1),
   R="diagonal and unequal",
   x0=matrix("mu"),
@@ -49,7 +49,7 @@ model <-  list(
   B=matrix(c("phi11", "phi21", "phi12", "phi22"), nrow = 2, ncol = 2),
   U=matrix(0, 2, 1),
   Q="unconstrained",
-  Z=matrix(c("a11", "a21", "a12", "a22"),2, 2), # State equation
+  Z=matrix(c("a11", "a21", "a12", "a22"),2, 2), # Observation equation
   A=matrix(0, 2, 1),
   R="unconstrained",
   D = matrix(paste("d", rep(1:11, each = 2), rep(1:2, times = 11), sep = ""), 2, 11),
