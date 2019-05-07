@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Tuesday, 5/7/19
+   - The [project due date](https://maryclare.github.io/atsa/project.html) has been moved to Monday, May 13 at 11:59pm because we have become aware that HW8 comments were not available until today.
 * Sunday 5/5/19
   - Reminder - office hours for Monday, May 6, from 2-4pm have been rescheduled to Tuesday, May 7, from 11-1pm.
 * Thursday 5/2/19

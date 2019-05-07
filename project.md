@@ -33,14 +33,15 @@ Summary of Tasks:
         - Hourly PM2.5 concentration (a measure of air pollution), dew point, temperature, air pressure, wind speed, hours of snow, and hours of rain in measured at the US Embassy in Beijing, China measured from January 1, 2010 to December 31, 2014. This data was downloaded from the [UCI Machine Learning Respository](https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data).
 
 - Submit second analysis as part of Homework 8
-- Submit final paper on Thursday, 5/9/19 by 11:59pm. See below for guidelines.
+- Submit final paper on Monday, 5/13/19 by 11:59pm. See below for guidelines.
 
 ## Rubric for Final Paper
   
 The final project will be:
 - 5 pages long including figures and tables, excluding `R` code and references;
-- Double spaced, with font size 12 and 1 inch margins;
-- Written using `R` Markdown;
+- Double spaced, with font size 12 and approximate 1 inch margins;
+    - If you are using `R` Markdown and cannot figure out how to achieve double spacing, you can single-space but then make sure that your final draft is no more than 3 pages long;
+- Written using the word processing software of your choosing;
 - Be accompanied by `R` code that reproduces all results.
   
 It will be graded out of 25 points as follows:
