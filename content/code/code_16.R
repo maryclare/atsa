@@ -12,8 +12,7 @@ X <- cbind(soi, rec)
 X <- X[1:400, ]
 
 # This software only lets us add covariates to the VAR model
-Z <- model.matrix(~factor(round(time(soi), 3) - floor(time(soi))))
-Z <- Z[, -ncol(Z)]
+Z <- 1:nrow(X)
 Z <- Z[1:nrow(X), ]
 
 varx <- VARX(X, p = 1, xt = Z, include.mean = FALSE, m = 0)
