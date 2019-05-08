@@ -4,6 +4,8 @@ layout: atsa
 
 News
 -------
+* Tuesday, 5/9/19
+   - References added for multivariate time series models on the [notes](https://maryclare.github.io/atsa/project.html) page.
 * Tuesday, 5/7/19
    - The [project due date](https://maryclare.github.io/atsa/project.html) has been moved to Monday, May 13 at 11:59pm because we have become aware that HW8 comments were not available until today.
    - Code from class on [multivariate state-space models](https://maryclare.github.io/atsa/content/code/code_15.R) and [VAR/VMA/VARMA for non-stationary data](https://maryclare.github.io/atsa/content/code/code_16.R) has been posted.

@@ -8,6 +8,8 @@ Notes and Slides
 Please keep in mind that these will be updated periodically as I catch and am otherwise made aware of typos.
 
 Lecture Notes:
+* Multivariate State-Space Models: See Chapter 6 of [Shumway and Stoffer (2006)](https://link.springer.com/book/10.1007\%2F0-387-36276-2) as well as [Homes, Scheuerell, and Ward (2018)](https://nwfsc-timeseries.github.io/atsa-labs/).
+* Multivariate AR/MA/ARMA: See Chapter 5, Section 7 of [Shumway and Stoffer (2006)](https://link.springer.com/book/10.1007\%2F0-387-36276-2) and/or Chapter 10 of [Chan (2010)](https://onlinelibrary-wiley-com.proxy.library.cornell.edu/doi/book/10.1002/9781118032466).
 * Basic Multivariate Time Series Concepts: [`notes_12.pdf`](https://maryclare.github.io/atsa/content/notes/notes_12.pdf)
 * Multivariate Regression: [`notes_11.pdf`](https://maryclare.github.io/atsa/content/notes/notes_11.pdf)
 * Stochastic Volatility Models: [`notes_10.pdf`](https://maryclare.github.io/atsa/content/notes/notes_10.pdf)
