@@ -13,7 +13,6 @@ X <- X[1:400, ]
 
 # This software only lets us add covariates to the VAR model
 Z <- 1:nrow(X)
-Z <- Z[1:nrow(X), ]
 
 varx <- VARX(X, p = 1, xt = Z, include.mean = FALSE, m = 0)
 # Hard to get predictions out...
