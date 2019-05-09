@@ -37,4 +37,4 @@ lines((nrow(X) + 1):length(rec), varma.pred$pred[, 2]+ linfit$coefficients[, 2][
 # Add linear model fit line just to get a sanity check
 abline(a = linfit$coefficients[, 2][1], b = linfit$coefficients[, 2][2], lty = 2)
 axis(2, seq(-200, 200, by = 50))
-axis(1, 0:length(rec), c("", time(rec)))
+axis(1, seq(0, length(rec) + 1, by = 50), c("", time(rec), "")[seq(0, length(rec) + 1, by = 50) + 1])
