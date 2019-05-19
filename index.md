@@ -4,6 +4,9 @@ layout: atsa
 
 News
 -------
+* Sunday, 5/19/19
+   - [Homework 8 solutions](https://maryclare.github.io/atsa/content/homework/hw_8_sol.pdf) posted.
+   - I've added solutions to [Exam 3](https://maryclare.github.io/atsa/content/exams/ex_3_sol.pdf). Summary statistics and a histogram are included in the solutions.
 * Tuesday, 5/9/19
    - References added for multivariate time series models on the [notes](https://maryclare.github.io/atsa/project.html) page.
 * Tuesday, 5/7/19

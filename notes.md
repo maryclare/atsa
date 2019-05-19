@@ -43,6 +43,7 @@ Lecture Code:
 * Forecasting: [`code_1.R`](https://maryclare.github.io/atsa/content/code/code_1.R)
 
 Exam Solutions:
+* [Exam 3](https://maryclare.github.io/atsa/content/exams/ex_3_sol.pdf)
 * [Exam 2](https://maryclare.github.io/atsa/content/exams/ex_2_sol.pdf)
 * [Exam 1](https://maryclare.github.io/atsa/content/exams/ex_1_sol.pdf)
 
